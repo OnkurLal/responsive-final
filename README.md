@@ -6,7 +6,7 @@
 - Bali, Indonesia
 - Cancun, Mexico
 - Toronto, Canada
-- Carribean Cruise
+- Caribbean Cruise
 - Orlando, Florida
 
 ### There is a page associated with each destination.
