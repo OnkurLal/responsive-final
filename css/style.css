@@ -32,3 +32,6 @@ h1{
 body{
     font-family: 'Tiro Telugu', serif;
 }
+.card-img-top{
+    height: 20rem;
+}
