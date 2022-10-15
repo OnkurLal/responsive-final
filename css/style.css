@@ -51,3 +51,10 @@ body{
        order: 2;
     }
 }
+.d-block{
+    height: 500px;
+}
+.cruisestops{
+    width: 600px;
+    height: 450px;
+}
