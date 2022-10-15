@@ -75,12 +75,8 @@
       </h5>
     </div>
     <div id="form">
-      <form
-        action="/action_page.php"
-        name="Vacation Contact"
-        netlify
-        class="container"
-      >
+      <form name="Vacation Contact" method="POST" netlify class="container">
+        <input type="hidden" name="form-name" value="Vacation Contact" />
         <div class="row mb-3">
           <div class="col-md form-floating">
             <input
