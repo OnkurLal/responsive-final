@@ -58,3 +58,9 @@ body{
     width: 600px;
     height: 450px;
 }
+#message{
+    height: 100px;
+}
+#form{
+    padding: 3% 20%;
+}
