@@ -10,6 +10,7 @@
 }
 #chichenitza{
     background-image: url("../images/chichen-itza.jpg");
+    margin-top: -10px;
 }
 .parallaxbtn{
     border-color: white;
@@ -66,4 +67,19 @@ body{
 }
 .carousel{
     margin-top: -10px;
+}
+#cntower{
+    background-image: url("../images/cnTower.jpg");
+    margin-top: -10px;
+    background-position: none;
+}
+#centre{
+    background-image: url("../images/airCanadaCentre.jpeg");
+}
+#nps{
+    background-image: url("../images/toronto.jpg");
+    background-position: bottom;
+}
+#niagarafalls{
+    background-image: url("../images/niagraFalls.jpg");
 }
