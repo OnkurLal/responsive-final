@@ -83,3 +83,12 @@ body{
 #niagarafalls{
     background-image: url("../images/niagraFalls.jpg");
 }
+#footerContact{
+    text-decoration: none;
+}
+#footerVacation{
+    font-family: 'Lobster', cursive;
+}
+i{
+    color: white;
+}
