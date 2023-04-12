@@ -4,7 +4,7 @@ Welcome to my Past Vacations Website! This website highlights different places I
 
 ### Live - https://onkurpastvacations.netlify.app/
 
-###Places Include:
+### Places Include:
 - Bali, Indonesia
 - Cancun, Mexico
 - Toronto, Canada
